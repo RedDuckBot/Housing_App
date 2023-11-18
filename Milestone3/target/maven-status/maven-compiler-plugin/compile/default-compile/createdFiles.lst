@@ -1,0 +1,15 @@
+dataBase/Property.class
+controllers/PrimaryController.class
+main/App.class
+controllers/LocationController.class
+dataBase/Neighbourhood.class
+m3Modules/BuildMessage.class
+controllers/TableController.class
+module-info.class
+controllers/houseViewController.class
+dataBase/NeighbourhoodData.class
+dataBase/CreateDatabase.class
+controllers/ChartsController.class
+m3Modules/Statistics.class
+controllers/NotableLocationsController.class
+dataBase/Entry.class
